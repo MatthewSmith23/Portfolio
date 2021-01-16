@@ -68,12 +68,12 @@ class Contact extends Component {
                   {blogSection["subtitle"]}
                 </p>
                 <div className="blogsite-btn-div">
-                  <Button
+                  {/* <Button
                     text="Visit My Blogsite"
                     newTab={true}
                     href={blogSection.link}
                     theme={theme}
-                  />
+                  /> */}
                 </div>
               </div>
               <div className="blog-heading-img-div">
@@ -120,12 +120,12 @@ class Contact extends Component {
                   {phoneSection["subtitle"]}
                 </p>
                 <div className="address-btn-div">
-                  <Button
+                  {/* <Button
                     text="Visit on Google Maps"
                     newTab={true}
                     href={addressSection.location_map_link}
                     theme={theme}
-                  />
+                  /> */}
                 </div>
               </div>
             </div>
