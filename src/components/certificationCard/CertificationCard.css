@@ -9,6 +9,8 @@
   box-shadow: 5px 5px 5px #d9dbdf;
   margin-bottom: 30px;
   flex: 0 0 30%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .cert-header {

@@ -9,7 +9,7 @@ class CertificationCard extends Component {
     return (
       <Fade bottom duration={2000} distance="20px">
         <div className="cert-card">
-          <div className="content center">
+          <div className="content">
             <a
               href={certificate.certificate_link}
               target="_blank"
