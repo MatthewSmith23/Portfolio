@@ -347,7 +347,7 @@ const certifications = {
     //     "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
     //   alt_name: "deeplearning.ai",
     //   color_code: "#00000099",
-    // color_code\
+    // color_code\/
     // },
     // {
     //   title: "ML on GCP",
