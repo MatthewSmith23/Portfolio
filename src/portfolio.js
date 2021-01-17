@@ -347,6 +347,7 @@ const certifications = {
     //     "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
     //   alt_name: "deeplearning.ai",
     //   color_code: "#00000099",
+    // color_code
     // },
     // {
     //   title: "ML on GCP",
@@ -491,7 +492,7 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Looking for Work",
+          title: "Currently pursuing",
           company: "Anywhere",
           company_url: "",
           logo_path: "delhivery_logo.png",
