@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "mattsportfolio",
-  "homepage": "https://MatthewSmith23.github.io",
+  "homepage": "https://MatthewSmith23.github.io/Portfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
