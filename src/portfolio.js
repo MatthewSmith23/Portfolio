@@ -12,7 +12,8 @@ const greeting = {
   nickname: "Bubba",
   subTitle:
     "A hardworking individual who will make sure deadlines are met and help others along the way.",
-  resumeLink: "",
+  resumeLink:
+    "https://docs.google.com/document/d/1kK3Euw6zOCExEUr4K97wt1RIJ9G9CelYN__7CvBDim0/edit?usp=sharing",
   portfolio_repository: "https://github.com/MatthewSmith23?tab=repositories",
 };
 
