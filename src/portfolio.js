@@ -315,16 +315,29 @@ const degrees = {
   degrees: [
     {
       title: "Wilmington University",
-      subtitle: "Bachelor's in Marketing",
+      subtitle: "B.S. in Marketing",
       logo_path: "WILMU.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2017-Present",
+      duration: "2019-Present",
       descriptions: [
         "⚡ I have studied branding and promotion of products & services.",
         "⚡ Apart from this, I have done courses on Cloud Computing and Full Stack Development.",
         "⚡ ",
       ],
       website_link: "https://www.wilmu.edu/",
+    },
+    {
+      title: "Middlesex Community College",
+      subtitle: "Liberal Arts - Business A.A.",
+      logo_path: "MCC.jpeg",
+      alt_name: "IIITDM Kurnool",
+      duration: "2017-2018",
+      descriptions: [
+        "⚡ I have studied branding and promotion of products & services.",
+        "⚡ Apart from this, I have done courses on Cloud Computing and Full Stack Development.",
+        "⚡ ",
+      ],
+      website_link: "https://www.middlesexcc.edu/",
     },
   ],
 };
@@ -340,14 +353,14 @@ const certifications = {
       color_code: "#8C151599",
     },
     // {
-    //   title: "Deep Learning",
-    //   subtitle: "- Andrew Ng",
-    //   logo_path: "deeplearning_ai_logo.png",
+    //   title: "Middlesex Community College",
+    //   subtitle: "Liberal Arts - Business A.A. Edison, NJ 2017-2018 Varsity Baseball",
+    //   logo_path: "MCC2.jpg",
     //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-    //   alt_name: "deeplearning.ai",
+    //     "",
+    //   alt_name: "MCC",
     //   color_code: "#00000099",
-    // color_code\/
+
     // },
     // {
     //   title: "ML on GCP",
