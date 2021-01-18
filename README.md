@@ -1,22 +1,31 @@
 Deployed Link to my portfolio ----> https://matthewsmith23.github.io/Portfolio/ <----
 
 The portfolio has the following :
--Home
+
+-Home:
+
   Information about what I do
   
--Education
+-Education:
+
   My schooling over the years
+  
   Degrees/Certificates 
   
--Experience
+-Experience:
+
   Including my work, internships and volunteerships
   
--Projects
+-Projects:
+
   Some of my top projects 
+  
   Linked my github to show the rest of my repos
   
--Contact Me
+-Contact Me:
+
   All of my social media links 
+  
   Resume attached --> https://docs.google.com/document/d/1kK3Euw6zOCExEUr4K97wt1RIJ9G9CelYN__7CvBDim0/edit?usp=sharing
   
   
