@@ -468,17 +468,6 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Valet Manager",
-          company: "Parking Solutions",
-          company_url: "",
-          logo_path: "PARKING.png",
-          duration: "Feb 2016 - Jan 2019",
-          location: "Various locations in New Jersey",
-          description:
-            "Coordinate parking services provided to patrons. Essential responsibilites include setting work schedules, recruiting and training staff, assigning work, monitoring personnel performance, and collaborating with business owners.",
-          color: "#0879bf",
-        },
-        {
           title: "Delivery Driver",
           company: "DoorDash",
           company_url: "",
@@ -488,6 +477,17 @@ const experience = {
           description:
             "Evaluate customer needs and determined appropriate action, referring thier questions to management when necessary. Selected the most efficient routes in compliance with delivery instructions. Resolved customer complaints and adjusted orders. Operated motor vehicles in a safe and efficient manner.",
           color: "#9b1578",
+        },
+        {
+          title: "Valet Manager",
+          company: "Parking Solutions",
+          company_url: "",
+          logo_path: "PARKING.png",
+          duration: "Feb 2016 - Jan 2019",
+          location: "Various locations in New Jersey",
+          description:
+            "Coordinate parking services provided to patrons. Essential responsibilites include setting work schedules, recruiting and training staff, assigning work, monitoring personnel performance, and collaborating with business owners.",
+          color: "#0879bf",
         },
         // {
         //   title: "Android Developer",
