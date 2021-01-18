@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb8b3b5fd55f1c9712b74b2658934659",
+    "revision": "a02e9a5489afd09f74fd7b66831a67b2",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "b8c5dc9f7c7f12238e2f",
+    "revision": "ad07a374ca3abebc8861",
     "url": "/Portfolio/static/css/main.33aa9737.chunk.css"
   },
   {
-    "revision": "50d93db1d39e3d6a039c",
-    "url": "/Portfolio/static/js/2.e3183dad.chunk.js"
+    "revision": "46dba38c2d754e529f3e",
+    "url": "/Portfolio/static/js/2.afb9bdcd.chunk.js"
   },
   {
-    "revision": "b8c5dc9f7c7f12238e2f",
-    "url": "/Portfolio/static/js/main.c811415c.chunk.js"
+    "revision": "ad07a374ca3abebc8861",
+    "url": "/Portfolio/static/js/main.a8694944.chunk.js"
   },
   {
     "revision": "29f04a0782e5048db936",
@@ -52,8 +52,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/GoogleSans-Regular.b5c77a6a.ttf"
   },
   {
+    "revision": "197ac44e941d23f14536d62b6fb25e73",
+    "url": "/Portfolio/static/media/MCC2.197ac44e.jpg"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "d31ee1a798fd4100863078116e6fc90f",
+    "url": "/Portfolio/static/media/OIP (1).d31ee1a7.jpeg"
+  },
+  {
+    "revision": "93b01d21325cb0c1ce5e49b12400c67f",
+    "url": "/Portfolio/static/media/PARKING.93b01d21.png"
+  },
+  {
+    "revision": "09695ab032bf307b2eb17d4514d4f622",
+    "url": "/Portfolio/static/media/RESUME.09695ab0.png"
   },
   {
     "revision": "8ae6812962da23e013f1969a87879742",
@@ -66,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
     "url": "/Portfolio/static/media/address_image.3b021f8f.svg"
-  },
-  {
-    "revision": "6c8410d0dc11fec239040695be13315d",
-    "url": "/Portfolio/static/media/animated_ashutosh.6c8410d0.png"
   },
   {
     "revision": "a633be2faf9b129259563d65d0aa1333",
@@ -212,6 +224,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/intel_logo.29152cf7.jpg"
   },
   {
+    "revision": "b85503f60bd4133d1da5b2eb907bc086",
+    "url": "/Portfolio/static/media/internship-759.b85503f6.jpg"
+  },
+  {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
     "url": "/Portfolio/static/media/jsFramework.b05ae5b5.svg"
   },
@@ -242,14 +258,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f7964c6bf45e77547f1e5aae1e1dede0",
     "url": "/Portfolio/static/media/projects_image.f7964c6b.svg"
-  },
-  {
-    "revision": "bd5f4148a754968cb4444206539c565c",
-    "url": "/Portfolio/static/media/pwa.bd5f4148.png"
-  },
-  {
-    "revision": "da0e7c80b90df28dd3a590c80f3d4970",
-    "url": "/Portfolio/static/media/stanford_logo.da0e7c80.png"
   },
   {
     "revision": "de3da8064f2e9ffab945772c2c67e46f",
