@@ -454,27 +454,27 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Valet Attendant",
+          title: "Valet Manager",
           company: "Parking Solutions",
           company_url: "",
-          logo_path: "legato_logo.png",
-          duration: "June 2016 - Feburary 2020",
-          location: "Sayreville, New Jersey",
+          logo_path: "PARKING.png",
+          duration: "Feb 2016 - Jan 2019",
+          location: "Various locations in New Jersey",
           description:
-            "Parking cars for people is alittle different web development",
+            "Coordinate parking services provided to patrons. Essential responsibilites include setting work schedules, recruiting and training staff, assigning work, monitoring personnel performance, and collaborating with business owners.",
           color: "#0879bf",
         },
-        // {
-        //   title: "Android and ML Developer",
-        //   company: "Muffito Incorporation",
-        //   company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-        //   logo_path: "muffito_logo.png",
-        //   duration: "May 2018 - Oct 2018",
-        //   location: "Pune, Maharashtra",
-        //   description:
-        //     "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-        //   color: "#9b1578",
-        // },
+        {
+          title: "Delivery Driver",
+          company: "DoorDash",
+          company_url: "",
+          logo_path: "doordash-square-red.jpg",
+          duration: "Feb 2020 - Present",
+          location: "Northern Delaware",
+          description:
+            "Evaluate customer needs and determined appropriate action, referring thier questions to management when necessary. Selected the most efficient routes in compliance with delivery instructions. Resolved customer complaints and adjusted orders. Operated motor vehicles in a safe and efficient manner.",
+          color: "#9b1578",
+        },
         // {
         //   title: "Android Developer",
         //   company: "FreeCopy Pvt. Ltd.",
@@ -495,10 +495,11 @@ const experience = {
           title: "Currently pursuing",
           company: "Anywhere",
           company_url: "",
-          logo_path: "delhivery_logo.png",
+          logo_path: "internship-759.jpg",
           duration: "Present",
           location: "New Jersey",
-          description: "No internships currently but open for anything!",
+          description:
+            "Applying and interviewing in the marketing areas of Technology, Sports, and Manufacturing.",
           color: "#ee3c26",
         },
         // {
@@ -522,20 +523,22 @@ const experience = {
           title: "Food Bank",
           company: "",
           company_url: "",
-          logo_path: "google_logo.png",
+          logo_path: "OIP.jpeg",
           duration: "March 2016 - May 2018",
           location: "New Jersey",
-          description: "Helped pack boxes of food and worked around warehouse",
+          description:
+            "Run clothing and food drives to collect and provide required essentials to the less fortunate.",
           color: "#4285F4",
         },
         {
           title: "Homeless Shelter",
           company: "",
           company_url: "",
-          logo_path: "microsoft_logo.png",
+          logo_path: "OIP (1).jpeg",
           duration: "Aug 2016 - Present",
           location: "New Jersey",
-          description: "Bring clothes & food to shelter helping others",
+          description:
+            "Warehouse work, including unloading delivery trucks, organizing and stockig pantry shelves and retrieving goods for assembly lines. Work on the assembly lines to pack boxes for the needy.",
           color: "#D83B01",
         },
         // {
