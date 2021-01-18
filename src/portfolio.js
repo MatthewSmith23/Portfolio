@@ -322,8 +322,8 @@ const degrees = {
       duration: "2019-Present",
       descriptions: [
         "⚡ I have studied branding and promotion of products & services.",
+        "⚡ Also demonstrating my communication skills with valid and reliable research",
         "⚡ Apart from this, I have done courses on Cloud Computing and Full Stack Development.",
-        "⚡ ",
       ],
       website_link: "https://www.wilmu.edu/",
     },
@@ -334,9 +334,9 @@ const degrees = {
       alt_name: "IIITDM Kurnool",
       duration: "2017-2018",
       descriptions: [
-        "⚡ I have studied branding and promotion of products & services.",
-        "⚡ Apart from this, I have done courses on Cloud Computing and Full Stack Development.",
-        "⚡ ",
+        "⚡ Building a solid foundation on the basics of business.",
+        "⚡ Learning the fundamentals and instilling effective work ethic.",
+        "⚡ Studied business theories & aquired skilles in management and marketing. ",
       ],
       website_link: "https://www.middlesexcc.edu/",
     },
