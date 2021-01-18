@@ -8,7 +8,7 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Matthew Smith",
-  logo_name: "MatthewSmith",
+  logo_name: "Matthew Smith",
   nickname: "Bubba",
   subTitle:
     "A hardworking individual who will make sure deadlines are met and help others along the way.",
